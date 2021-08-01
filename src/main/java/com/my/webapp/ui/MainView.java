@@ -20,7 +20,7 @@ import com.vaadin.flow.router.Route;
 public class MainView extends VerticalLayout {
 
     /**
-	 * 
+	 * SerialVersion 추가. 자꾸 경고 나와서 넣음. 
 	 */
 	private static final long serialVersionUID = 1L;
 
